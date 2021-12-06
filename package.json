@@ -16,9 +16,5 @@
     "sass": "^1.44.0",
     "snowpack": "^3.8.8",
     "snowpack-plugin-relative-css-urls": "^1.2.0"
-  },
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.4",
-    "bootstrap": "^5.1.3"
   }
 }
